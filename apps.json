@@ -1,0 +1,17 @@
+{
+	"apps": [
+
+		{
+			"name": "app-name-1",
+			"desc": "app-desc-1",
+			"icon": "http://xxx1",
+			"url": "url1"
+		},
+		{
+			"name": "app-name-2",
+			"desc": "app-desc-1",
+			"icon": "http://xxx2",
+			"url": "url1"
+		}
+	]
+}
